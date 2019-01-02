@@ -19,3 +19,6 @@ BOOKTITLE = {Advances in Neural Information Processing Systems 31},
 PAGES = {7716--7726},
 ADDRESS = {Montr{\'e}al, Canada},
 }
+
+# Acknowledgements
+Lot of the code structure is borrowed from the Stargan repository (https://github.com/yunjey/stargan)
